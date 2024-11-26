@@ -1,0 +1,20 @@
+{
+  "employees": [
+    {
+      "email": "alzhan@translogistic.kz",
+      "fullName": "Альжан Маратович",
+      "phoneNumber": "+7 982 222 12-12",
+      "registrationDate": "24.04.24",
+      "role": "Сотрудник",
+      "permissions": ["create_orders", "view_analytics"]
+    },
+    {
+      "email": "magzhan@translogistics.kz",
+      "fullName": "Мажан.А.Н",
+      "phoneNumber": "+7 982 222 12-12",
+      "registrationDate": "24.04.24",
+      "role": "Сотрудник",
+      "permissions": ["create_orders", "delete_orders", "view_balance"]
+    }
+  ]
+}
